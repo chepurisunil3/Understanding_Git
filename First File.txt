@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+This is a first commit, Modifying
+=======
 This is a first commit, modifying in web
+>>>>>>> e22e05d117c23bbd2b58a27371042cd67e748db0
